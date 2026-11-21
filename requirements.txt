@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+pypdf
+python-docx
+numpy
+scikit-learn
+httpx
+pytest
+pytest-asyncio
